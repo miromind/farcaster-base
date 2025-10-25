@@ -6,7 +6,7 @@ const frame = {
   version: 'next',
   imageUrl: `${APP_URL}/images/treasure.png`,
   button: {
-    title: 'Launch Template',
+    title: 'Join',
     action: {
       type: 'launch_frame',
       name: 'Treasure Hunt Farcaster MiniApp by PiracyData',
