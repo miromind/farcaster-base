@@ -14,7 +14,7 @@ export async function GET() {
       name: "Treasure Hunt App",
       iconUrl: `${APP_URL}/images/icon.png`,
       homeUrl: `${APP_URL}`,
-      imageUrl: `${APP_URL}/images/feed.png`,
+      imageUrl: `${APP_URL}/images/treasure.png`,
       screenshotUrls: [],
       tags: ["Base", "farcaster", "miniapp", "template"],
       primaryCategory: "developer-tools",
