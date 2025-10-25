@@ -61,7 +61,7 @@ export function WalletActions() {
             {chainId === base.id ? (
               <div className="flex flex-col space-y-2 border border-[#333] p-4 rounded-md">
                 <h2 className="text-lg font-semibold text-left">
-                  Is base token launch before november?
+                  Are you brave enough to seek what’s hidden?
                 </h2>
                <div className="flex space-x-4">
             <button
