@@ -4,7 +4,7 @@ import type { Metadata } from 'next'
 
 const frame = {
   version: 'next',
-  imageUrl: `${APP_URL}/images/feed.png`,
+  imageUrl: `${APP_URL}/images/treasure.png`,
   button: {
     title: 'Launch Template',
     action: {
